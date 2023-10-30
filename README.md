@@ -1,2 +1,3 @@
 # BlockEF
-This is the codes and datasets for paper "Aligned-entities-Based Fusion Embedding on Hetero-field Knowledge Graphs"
+The is the project for paper "Aligned-entities-Based Fusion Embedding on Hetero-field Knowledge Graphs", which has been submitted to a journal for the potential publication.
+Once the paper is accepted for publication, we will share the source codes.
